@@ -2,16 +2,16 @@
     "success": true,
     "user": {
         "about": {
-            "name": "Dhruv Sharma",
-            "title": "Software Engineer",
-            "subTitle": "I develop web applications and solve real world problems",
-            "description": "As a software developer with a solid background in React and a diverse skill set in C/C++, Java, and Python, I bring a unique combination of frontend and backend expertise. I have experience with various technologies including TypeScript, ReactJS, NodeJS, ExpressJS, MongoDB, and NextJS. I value continuous learning, which is reflected in my ongoing work with blockchain and machine learning. My approach focuses on building robust, scalable solutions, while collaborating with teams and clients to address real-world challenges. My aim is to create user-friendly applications that deliver impactful results.",
-            "quote": "Live the Life as you want",
-            "exp_year": "1",
-            "address": "Haryana , India",
+            "name": "Anish Kumar",
+            "title": "Customer Success Lead",
+            "subTitle": "Subtitle Here",
+            "description": "Experienced professional with 5+ years in customer success, project management, and business analysis. Proficient in delivering data-driven insights, optimizing processes, and ensuring customer satisfaction. Adept at aligning business goals with efficient project execution. Seeking to leverage expertise to drive success in a dynamic role.",
+            "quote": "Be the change you want to see",
+            "exp_year": "5+",
+            "address": "Delhi , India",
             "some_total": "90",
-            "phoneNumber": "+91-8377830677",
-            "contactEmail": "dhruvamsh@gmail.com",
+            "phoneNumber": "+91-7987422971",
+            "contactEmail": "anishkumar3696@gmail.com",
             "avatar": {
                 "public_id": "portfolio3/1713995155677-122l5x.webp",
                 "url": "https://drive.google.com/uc?id=1N-HIB3cvydH1-REm5h58jNEXG1nAc684",
@@ -26,13 +26,13 @@
             ]
         },
         "_id": "65b3a22c01d900e96c4219ae",
-        "username": "Dhruv Sharma",
-        "email": "dhruvamsh@gmail.com",
+        "username": "Anish Kumar",
+        "email": "anishkumar3696@gmail.com",
         "role": "admin",
         "timeline": [
             {
                 "company_name": "Ampersand Group",
-                "summary": "Contributed to the development of a new social networking platform targeting niche communities.",
+                "summary": "Managed governmnent projects such as Building and Other Construction Welfare Board Goa (Ministry of Goa), Vidya Samiksha Kendra, Delhi (Education Department, Delhi)",
                 "sequence": 6,
                 "startDate": "2024-01-10T00:00:00.000Z",
                 "endDate": "2024-05-10T00:00:00.000Z",
