@@ -34,10 +34,10 @@ export const PageLoad = ({ setHideLoader }: PageLoadProps) => {
       className="fixed top-0 left-0 z-[9999] w-full h-full bg-background"
     >
       <div className="p-4 md:p-10 flex flex-col md:justify-between max-md:gap-8 w-full h-full">
-        <span className="font-semibold text-white/40">Dhruv Sharma</span>
+        <span className="font-semibold text-white/40">Anish Kumar</span>
         <div className="flex flex-col max-md:justify-between max-md:h-full">
           <p className="text-3xl md:text-5xl w-full md:w-2/5">
-          I am a Final year B.Tech student in Computer Engineering at NIT Kurukshetra. I develop web and mobile applications.
+          I am a Experienced professional with 5+ years in customer success, project management, and business analysis.
           </p>
           <div className="flex justify-between items-end">
             <span className="text-white/30">Loading...</span>
